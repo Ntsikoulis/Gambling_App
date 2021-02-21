@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Blockchain_Contract/static/css/main.b100e6da.chunk.css",
+    "main.js": "/Blockchain_Contract/static/js/main.7a2eee8a.chunk.js",
+    "main.js.map": "/Blockchain_Contract/static/js/main.7a2eee8a.chunk.js.map",
+    "runtime-main.js": "/Blockchain_Contract/static/js/runtime-main.307eb0f2.js",
+    "runtime-main.js.map": "/Blockchain_Contract/static/js/runtime-main.307eb0f2.js.map",
+    "static/js/2.7fbb6e1d.chunk.js": "/Blockchain_Contract/static/js/2.7fbb6e1d.chunk.js",
+    "static/js/2.7fbb6e1d.chunk.js.map": "/Blockchain_Contract/static/js/2.7fbb6e1d.chunk.js.map",
+    "index.html": "/Blockchain_Contract/index.html",
+    "precache-manifest.6bce1a55cf242f98fc2725ec26e6be04.js": "/Blockchain_Contract/precache-manifest.6bce1a55cf242f98fc2725ec26e6be04.js",
+    "service-worker.js": "/Blockchain_Contract/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/Blockchain_Contract/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.307eb0f2.js",
+    "static/js/2.7fbb6e1d.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.7a2eee8a.chunk.js"
+  ]
+}
